@@ -4,7 +4,7 @@ import "fmt"
 
 //order in which functions are written doesn't change
 
-func main(){
+func main(){git 
 	totalScore := ask(0,"fish");
 ask(1,"cat");
 ask(2,"dog");
